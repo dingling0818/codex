@@ -125,6 +125,9 @@ export default function Home() {
           <a className="transition hover:text-[#0b6f68]" href="#research">
             Research & Publication
           </a>
+          <a className="transition hover:text-[#0b6f68]" href="/sts-map">
+            STS Map
+          </a>
           <a className="transition hover:text-[#0b6f68]" href="#teaching">
             Teaching
           </a>
